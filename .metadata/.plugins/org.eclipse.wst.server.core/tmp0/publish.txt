@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Wed Feb 24 11:45:02 IST 2021
+org.eclipse.jst.jee.server\:/binary\:E\:\\Programming\\JavaHibernate\\HBWebApp\\WebContent\\WEB-INF\\lib\\spring-web-4.3.1.RELEASE.jar=WEB-INF/lib/spring-web-4.3.1.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:E\:\\Programming\\JavaHibernate\\HibernateDemo2\\WebContent\\WEB-INF\\lib\\spring-web-4.3.1.RELEASE.jar=WEB-INF/lib/spring-web-4.3.1.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:E\:\\Programming\\JavaHibernate\\HibernateDemo\\WebContent\\WEB-INF\\lib\\spring-web-4.3.1.RELEASE.jar=WEB-INF/lib/spring-web-4.3.1.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:E\:\\Programming\\JavaHibernate\\HibernateUsingAnnotation\\WebContent\\WEB-INF\\lib\\spring-web-4.3.1.RELEASE.jar=WEB-INF/lib/spring-web-4.3.1.RELEASE.jar
